@@ -1,0 +1,14 @@
+---
+title: Week #1
+---
+
+# LCL in Libraries, Introduction
+
+This is a remix of the [Learning Creative Learning](https://learn.media.mit.edu/lcl/) course created by the Lifelong Kindergarten Group at MIT. The intention of this version is to follow the main ideas of the original LCL while tailoring discussions, readings, and other material to the needs and interests of librarians interested in understanding and developing creative learning experiences.  
+
+For each week you'll find a link to the main introductory video featuring professor Mitch Resnick, a selection of readings, and some discussion questions. The course is designed for small groups of librarians interested in engaging with active discussions about these ideas and how they can be applied in the world of libraries.  
+
+This course is developed by Amos Blanton, a former member of the Scratch Team at the Lifelong Kindergarten Group at MIT Media Lab, as part of his PhD studies in collaboration with the Aarhus Public Library at Dokk1 in Denmark. 
+
+![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
+Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
