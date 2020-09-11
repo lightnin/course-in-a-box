@@ -2,13 +2,20 @@
 title: Introduction
 ---
 
-# LCL in Libraries, Introduction
+# Introduction to Learning Creative Learning
 
-This is a remix of the [Learning Creative Learning](https://learn.media.mit.edu/lcl/) course created by the Lifelong Kindergarten Group at MIT. The intention of this version is to follow the main ideas of the original LCL while tailoring discussions, readings, and other material to the needs and interests of librarians interested in understanding and developing creative learning experiences.  
+In this video, Mitch Resnick introduces the core ideas of creative learning and how those ideas are inspired by the way children learn in kindergarten.
 
-For each week you'll find a link to the main introductory video featuring professor Mitch Resnick, a selection of readings, and some discussion questions. The course is designed for small groups of librarians interested in engaging with active discussions about these ideas and how they can be applied in the world of libraries.  
+<iframe width="560" height="315" src="//www.youtube.com/embed/zALGoSjIvAY" frameborder="0" allowfullscreen></iframe>
 
-This course is developed by Amos Blanton, a former member of the Scratch Team at the Lifelong Kindergarten Group at MIT Media Lab, as part of his PhD studies in collaboration with the Aarhus Public Library at Dokk1 in Denmark.
+# Readings
 
-![Image of maze with starting point indicated]({{site.baseurl}}/img/start.jpg)
-Image [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) by [mikecogh](https://www.flickr.com/photos/mikecogh/11300349426) on Flickr.
+[Lifelong Kindergarten, Chapter 1, excerpts] (https://learn.media.mit.edu/lcl/resources/readings/chapter1-excerpt.pdf?pdf=ch1-en)
+
+[Gears of my Childhood](https://learn.media.mit.edu/lcl/resources/activity/week1/gears.pdf?pdf=gears.en), by Seymour Papert.
+
+# Discussion
+
+Creative Learning takes as its theoretical foundation the work of Seymour Papert, who created a theory of learning called *Constructionism* which grew out of earlier work by Jean Piaget know as *Constructivism*. Papert believed that "The role of the teacher is to create the conditions for invention rather than provide ready-made knowledge.”
+
+Today libraries around the world are exploring how to create the conditions for invention for diverse activities, from hands-on crafts to 3D printing. Think back to a time when you witnessed someone being creative or exploring a new idea in the library. Describe what you saw, and discuss the conditions that helped make it happen, as well as any conditions that made it more difficult.
