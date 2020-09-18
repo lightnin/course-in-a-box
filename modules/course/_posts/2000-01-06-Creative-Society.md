@@ -1,8 +1,6 @@
-{% highlight yaml %}
 ---
 title: Creative Society
 ---
-{% endhighlight %}
 
 ## Passion
 

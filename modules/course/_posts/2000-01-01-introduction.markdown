@@ -23,7 +23,7 @@ Today libraries around the world are exploring how to create the conditions for 
 
 ## Activities
 
-#Mapping the 4 P's in your Library
+*Mapping the 4 P's in your Library*
 
 Find a rough floorplan of your library and print one out for each participant. Spend 20 minutes walking around your space looking for examples of the 4Ps. You might come upon a person who is clearly passionate about what they are doing, or a group of peers sitting near one another. When you find one, mark it on your map along with a few notes describing what you saw.
 
